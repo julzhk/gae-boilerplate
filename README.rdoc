@@ -1,4 +1,4 @@
-= Google App Engine Boilerplate
+++!+= Google App Engine Boilerplate
 
 Google App Engine Boilerplate gets your project off the ground quickly using the Google App Engine platform. 
 Create powerful applications by using the latest technology supported on Google App Engine. 
